@@ -10,7 +10,7 @@ Use `-arch` to connect to arch servers instead of eos
 
 ### Suggested Installation:
 - Put it in `~/Documents/WindowsPowerShell/Scripts`
-- Add an alias to your `$PROFILE` like `Set-Alias -Name QuickEOS -Value ~\Documents\WindowsPowerShell\Scripts\QuickEOS.ps1`
+- Add an import to your `$PROFILE` like `Import-Module ~/Documents/WindowsPowerShell/Scripts/QuickEOS.ps1`
 
 Or however you like, don't let me tell you what to do.
 If you don't like my very mediocre PowerShell scripting, send me a PR.
